@@ -1,4 +1,4 @@
-# LLMtemplateMaker: Prompt Template Creator for LLM
+# LLMtemplateMaker: Prompt Template Creator for LLM in R
 
 ## Description
 To get a good response in LLM, users need to be clear and specific in their prompts.
@@ -16,15 +16,15 @@ Copyright (c) 2023 Satoshi Kume. Released under the [Artistic License 2.0](http:
 
 ## Cite
 
-Kume S. (2023) chatAI4R: Chat-based Interactive Artificial Intelligence for R.
+Kume S. (2023) LLMtemplateMaker: Prompt Template Creator for LLM in R.
 
 ```
 #BibTeX
 @misc{Kume2023LLMtemplateMaker,
-  title={LLMtemplateMaker: Prompt Template Creator for LLM},
+  title={LLMtemplateMaker: Prompt Template Creator for LLM in R},
   author={Kume, Satoshi}, year={2023},
   publisher={GitHub}, note={R Package},
-  howpublished={\url{https://github.com/kumeS/chatAI4R}},
+  howpublished={\url{https://github.com/kumeS/LLMtemplateMaker}},
 }
 ```
 
