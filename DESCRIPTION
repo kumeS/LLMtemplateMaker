@@ -1,11 +1,24 @@
 Package: LLMtemplateMaker
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Prompt Template Creator for LLM
+Version: 0.0.1
+Date: 2023-09-30
+Authors@R: c(
+    person (given = "Satoshi", family = "Kume",
+    role = c("aut", "cre"), 
+    email = "satoshi.kume.1984@gmail.com",
+    comment = c(ORCID = "0000-0001-7481-2843"))
+    )
+Maintainer: Satoshi Kume <satoshi.kume.1984@gmail.com>
+Description: To get a good response in LLM, users need to be clear and specific in their prompts.
+    The feature of this package provides a template for creating a prompt.
+    And after completing this template, users can generate artifacts with LLM (see details on the 'OpenAI' Web APIs <https://openai.com/blog/openai-api>).
+    Sharing prompt templates in the R environment is expected to enhance the user's prompt engineering capabilities.
+Depends: R (>= 4.2.0)
+Imports: httr
+Suggests: testthat, knitr
+License: Artistic-2.0
+URL: https://kumes.github.io/LLMtemplateMaker/, https://github.com/kumeS/LLMtemplateMaker
+BugReports: https://github.com/kumeS/LLMtemplateMaker/issues
+RoxygenNote: 7.2.3
 Encoding: UTF-8
-LazyData: true
