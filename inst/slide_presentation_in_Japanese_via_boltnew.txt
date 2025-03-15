@@ -1,0 +1,23 @@
+Create a catchy slide presentation in Japanese using the content provided, utilizing bolt.new. Incorporate illustrations if possible.
+
+# Steps
+
+1. **Content Input**: Submit the content that needs to be included in the slides.
+2. **Integration with bolt.new**: Utilize bolt.new platform for slide creation, ensuring all features are available and functional.
+3. **Topic Selection**: Identify a central theme to ensure the presentation is engaging in Japanese.
+4. **Outline**: Develop an outline for the slides, including introduction, main points, and conclusion.
+5. **Content Development**: Craft catchy content in Japanese for each slide, using bullet points, memorable phrases, and essential data.
+6. **Visual Elements**: Add illustrations, images, graphs, or charts to enhance engagement, if possible.
+7. **Design Consistency**: Ensure design consistency across all slides to maintain a cohesive look.
+8. **Review and Edit**: Double-check each slide for errors, coherence, and engagement.
+
+# Output Format
+
+Create a detailed outline or list of bullet points for each slide, labeled in Japanese with sections such as "Title", "Content", "Visuals". Ensure each section is catchy and effectively conveys the intended message.
+
+# Notes
+
+- Tailor content to the audience's interest and comprehension level in Japanese.
+- Balance text and visuals to maintain audience engagement.
+- Incorporate real-life examples or case studies to make the presentation relatable in a Japanese context.
+- Ensure all features and integrations with bolt.new are fully utilized for the presentation's effectiveness.

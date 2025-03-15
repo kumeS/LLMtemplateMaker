@@ -1,33 +1,45 @@
-# LLMtemplateMaker: Prompt Template Creator for Large Language Models in R
+# **LLMtemplateMaker: Prompt Template Creator for Large Language Models in R**
 
-## Description
-To get a good response in Large Language Model (LLM), users need to be clear and specific in their prompts.
-The feature of this package provides a template for creating a prompt.
-And after completing this template, users can generate artifacts with LLM.
-Sharing prompt templates in the R environment is expected to enhance the user's prompt engineering capabilities.
+## Project Description
 
+To generate high-quality responses from Large Language Models (LLMs), users must craft clear and specific prompts. This package provides templates for creating effective prompts and also includes pre-built prompts for distribution.  
 
-## Installation of the package
+By sharing prompt templates within the R environment, this package aims to enhance users' prompt engineering capabilities.  
 
-    
+Pre-built prompts are stored as text files in the `inst` folder.  
+
+## Installation
+
+(Currently under development)
+
+## Included Prompt Templates
+
+| **File Name** | **Description** |  
+|:---|:---|  
+| `slide_presentation_in_Japanese_via_boltnew.txt` | Creates Japanese slide presentations using `bolt.new` |  
+
 ## License
 
-Copyright (c) 2023 Satoshi Kume. Released under the [Artistic License 2.0](http://www.perlfoundation.org/artistic_license_2_0).
+Copyright (c) 2023 Satoshi Kume.  
+Released under the [Artistic License 2.0](http://www.perlfoundation.org/artistic_license_2_0).  
 
-## Cite
+## Citation
 
-Kume S. (2023) LLMtemplateMaker: Prompt Template Creator for Large Language Models in R.
+Kume S. (2023). *LLMtemplateMaker: Prompt Template Creator for Large Language Models in R*.  
 
 ```
 #BibTeX
 @misc{Kume2023LLMtemplateMaker,
   title={LLMtemplateMaker: Prompt Template Creator for Large Language Models in R},
-  author={Kume, Satoshi}, year={2023},
-  publisher={GitHub}, note={R Package},
+  author={Kume, Satoshi},
+  year={2023},
+  publisher={GitHub},
+  note={R Package},
   howpublished={\url{https://github.com/kumeS/LLMtemplateMaker}},
 }
 ```
 
 ## Contributors
 
-- Satoshi Kume
+- Satoshi Kume  
+
